@@ -31,6 +31,7 @@ xcuserdata/
 *.sublime-workspace
 
 # IDE - VSCode
+
 .vscode/*
 !.vscode/settings.json
 !.vscode/tasks.json
@@ -57,3 +58,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+fabricate/.vscode/extensions.json
+fabricate/.vscode/launch.json
+fabricate/.vscode/tasks.json
+fabricate/.editorconfig
